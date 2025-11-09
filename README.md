@@ -1,5 +1,5 @@
 # Python Calculators- Open source Calculating project
-![Badge](https://img.shields.io/badge/Only-Python-blue) ![Badge](https://img.shields.io/badge/Python-Measurements-yellow) ![Badge](https://img.shields.io/badge/Python-3.12-purple) ![Badge](https://img.shields.io/badge/Electronics-blue) ![badge](https://img.shields.io/badge/Open-Source-green) ![Badge](https://img.shields.io/badge/Contributions-Welcome-pink) ![Badge](https://img.shields.io/badge/Unlicensed-red) ![Badge](https://img.shields.io/badge/Contributors%3A-1-red)
+![Badge](https://img.shields.io/badge/Only-Python-blue) ![Badge](https://img.shields.io/badge/Python-Measurements-yellow) ![Badge](https://img.shields.io/badge/Python-3.12-purple) ![Badge](https://img.shields.io/badge/Electronics-blue) ![badge](https://img.shields.io/badge/Open-Source-green) ![Badge](https://img.shields.io/badge/Contributors-Welcome-pink) ![Badge](https://img.shields.io/badge/Unlicensed-red) ![Badge](https://img.shields.io/badge/Contributors%3A-1-red)
 
 
 # This Repository ➕➖
