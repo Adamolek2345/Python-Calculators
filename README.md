@@ -12,7 +12,7 @@ calculators or battery calculators. I also make measuring scripts for different 
 
 # How to use ? 🐍
 These scripts are made using Python 3. To run them, you can use the official Python 3, available at
-"https://www.python.org/downloads", or using the command below if you use bash:
+"https://www.python.org/downloads", or using the command below if you use Debian-Based OSes:
 
 -First, update Superuser (sudo):
 ```bash
@@ -27,6 +27,25 @@ sudo apt install python3
 ```bash
 python3
 ```
+
+
+If you use Pacman (used in Arch-based OSes):
+
+-First, update Superuser (sudo):
+```bash
+sudo pacman -Syu
+```
+
+-Now, install python if you don't have it:
+```bash
+sudo pacman -S python3
+```
+-Now, run the python console on your terminal:
+```bash
+python3
+```
+
+
 
 Now, just open or paste the code and use it !
 As I mentioned in the description, this code can be run directly using the Python 3 console, without using any
